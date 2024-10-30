@@ -1,34 +1,34 @@
 import {
-  mobile,
+  angular,
+  aptihealthApp,
+  aptihealthWeb,
   backend,
   creator,
-  web,
-  javascript,
-  typescript,
-  html,
   css,
-  reactjs,
-  nextJs,
-  redux,
-  tailwind,
-  angular,
-  nodejs,
-  mongodb,
-  java,
-  mysql,
   git,
-  nickelfox,
-  newgen,
-  skillrisers,
-  proximus,
-  aptihealthWeb,
-  aptihealthApp,
-  zealWeb,
-  zealApp,
-  rollWeb,
-  rollApp,
-  linkedIn,
   github,
+  html,
+  java,
+  javascript,
+  linkedIn,
+  mobile,
+  mongodb,
+  mysql,
+  newgen,
+  nextJs,
+  nickelfox,
+  nodejs,
+  proximus,
+  reactjs,
+  redux,
+  rollApp,
+  rollWeb,
+  skillrisers,
+  tailwind,
+  typescript,
+  web,
+  zealApp,
+  zealWeb,
 } from "../assets";
 
 const navigationPaths = {
@@ -322,10 +322,10 @@ const projects = [
 ];
 
 const personalInfo = {
-  name: "Shridhar",
-  fullName: "Shridhar Rai",
-  email: "raishridhar619@gmail.com",
-  role: "Software Developer",
+  name: "Serhiishap",
+  fullName: "Serhii Shapovalov",
+  email: "serhiishap96@gmail.com",
+  role: "Full Stack Developer",
   about: `I'm a skilled software developer with experience in TypeScript and
   JavaScript, and expertise in frameworks like React.Js, React-naitve,
   Node.js etc. I'm a quick learner and collaborate closely with clients to
@@ -343,23 +343,19 @@ const publicUrls = {
   socialProfiles: {
     linkedin: {
       title: "linkedin",
-      link: "https://www.linkedin.com/in/shridharrai/",
+      link: "https://www.linkedin.com/in/serhii-shapovalov-996311333/",
       icon: linkedIn,
     },
     github: {
       title: "github",
-      link: "https://github.com/shridharrai",
+      link: "https://github.com/SerhiiShapovalov530",
       icon: github,
     },
   },
 };
 
 export {
-  services,
-  technologies,
-  experiences,
-  projects,
-  navigationPaths,
-  personalInfo,
-  publicUrls,
+  experiences, navigationPaths,
+  personalInfo, projects, publicUrls, services,
+  technologies
 };
